@@ -1,4 +1,4 @@
-//我也对这个进行了修改
+//Mac传出的文件2
 #include <iostream>
 using namespace std;
 

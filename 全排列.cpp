@@ -1,3 +1,4 @@
+//我把全排列进行了一次修改
 #include <iostream>
 using namespace std;
 int n,P[200],hashTable[200]={false};

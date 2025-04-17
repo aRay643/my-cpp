@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/Ray_/Documents/Cpp/src/output/翻牌游戏"
+relocations:     []
+...

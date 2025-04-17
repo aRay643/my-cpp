@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/Ray_/Documents/Cpp/src/最长相等前后缀"
+relocations:     []
+...
